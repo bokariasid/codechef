@@ -8,7 +8,7 @@ int main()
     int width[n],lane[t];
     for(int i=0;i<n;i++)
  {       cin>>width[i];
-         cout<<width[i]<<"\n";
+         //cout<<width[i]<<"\n";
 }
     cout<<width[0];
     for(int i=0;i<2*t;i++)
